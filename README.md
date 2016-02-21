@@ -8,8 +8,10 @@ This is to show the different parts of the GIT repo and various commands using a
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos - added my Meena
 
 ##Deployment
+
+This is a simple web project
 
 ##How to contribute
